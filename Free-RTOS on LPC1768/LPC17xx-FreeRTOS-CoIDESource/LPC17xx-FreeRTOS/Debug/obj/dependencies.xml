@@ -1,0 +1,159 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<dependencies>
+   <includePath signature="/ID:\ /ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library /ID:\#ARMLib\HjDelay /ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable /I..\..\..\workspace\LPC17xx-FreeRTOS\lpc17xx_lib\include /ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code /ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples /I..\..\..\workspace /I..\..\..\workspace\LPC17xx-FreeRTOS\cmsis /ID:\#ARMLib\R2THWConfig /ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include /I..\..\..\workspace\LPC17xx-FreeRTOS /ID:\#ARMLib /I..\..\..\workspace\LPC17xx-FreeRTOS\cmsis_boot /I..\..\..\workspace\LPC17xx-FreeRTOS\lpc17xx_lib">
+      <source file="..\..\..\cmsis\core_cm3.h" lastModified="14c738bb360">
+         <include file="..\..\..\cmsis\core_cmInstr.h"/>
+         <include file="..\..\..\cmsis\core_cmFunc.h"/>
+      </source>
+      <source file="D:\#ARMLib\HjDelay\HjDelay.h" lastModified="14c92e62a74">
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\startup\startup_LPC17xx.c" lastModified="14c73d8383c">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\list.h" lastModified="14593508190">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h" lastModified="14c738a95d4">
+         <include file="..\..\..\lpc17xx_lib\include\lpc_types.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\queue.h" lastModified="14593508190">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h" lastModified="14c738bf8e5">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc_types.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\consoleprint.h" lastModified="1352f680a50">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\queue.c" lastModified="14593509900">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\queue.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\croutine.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\consoleprint.c" lastModified="1352f681220">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\consoleprint.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\port.c" lastModified="14593508960">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\event_groups.h" lastModified="14593508190">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\timers.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\StackMacros.h" lastModified="14593508190">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\projdefs.h" lastModified="14593508190">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\tasks.c" lastModified="1459350a0d0">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\timers.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\StackMacros.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmFunc.h" lastModified="14c738bb74f">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOSConfig.h" lastModified="14c740f1651">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h" lastModified="14593508960">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\projdefs.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOSConfig.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\portable.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h" lastModified="14593509130">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\list.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_libcfg_default.c" lastModified="14c738a95e4">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\stdio\printf.c" lastModified="14c7389ae64">
+      </source>
+      <source file="..\..\..\syscalls\syscalls.c" lastModified="14c73899792">
+      </source>
+      <source file="..\..\..\main.c" lastModified="14c9902e4c9">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="D:\#ARMLib\R2THWConfig\R2T-ECA-LPC1768Config.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+         <include file="D:\#ARMLib\HjDelay\HjDelay.h"/>
+      </source>
+      <source file="..\..\..\cmsis\core_cmInstr.h" lastModified="14c738bb750">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h" lastModified="14c738bf91c">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc_types.h"/>
+      </source>
+      <source file="D:\#ARMLib\R2THWConfig\R2T-ECA-LPC1768Config.h" lastModified="14c92a2bd25">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_LPC17xx.h" lastModified="14c738bfd6b">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_clkpwr.c" lastModified="14c738bf91d">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_clkpwr.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h" lastModified="14c738c176d">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc_types.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\portable.h" lastModified="14593514cb0">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\mpu_wrappers.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_pinsel.c" lastModified="14c738c1776">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_pinsel.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\system_LPC17xx.c" lastModified="14c738bfd5e">
+         <include file="..\..\..\cmsis_boot\LPC17xx.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\portmacro.h" lastModified="14593508960">
+      </source>
+      <source file="..\..\..\lpc17xx_lib\include\lpc_types.h" lastModified="14c738a99c4">
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\croutine.h" lastModified="14593508190">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\list.h"/>
+      </source>
+      <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpio.c" lastModified="14c738bfcd3">
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_gpio.h"/>
+         <include file="..\..\..\lpc17xx_lib\include\lpc17xx_libcfg_default.h"/>
+      </source>
+      <source file="..\..\..\cmsis_boot\LPC17xx.h" lastModified="14c738bf960">
+         <include file="..\..\..\cmsis\core_cm3.h"/>
+         <include file="..\..\..\cmsis_boot\system_LPC17xx.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\timers.c" lastModified="14593509518">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\queue.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\timers.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\event_groups.c" lastModified="14593508578">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\timers.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\event_groups.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\timers.h" lastModified="14593508190">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\basic_io.c" lastModified="14716f82d08">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\consoleprint.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\heap_2.c" lastModified="14593508d48">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\task.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\list.c" lastModified="14593508578">
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\FreeRTOS.h"/>
+         <include file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\list.h"/>
+      </source>
+      <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include\mpu_wrappers.h" lastModified="14593508190">
+      </source>
+   </includePath>
+</dependencies>

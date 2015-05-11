@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc -mcpu=cortex-m3 -mthumb -g -nostartfiles -Map=LPC17xx-FreeRTOS.map -O0 --gc-sections -LC:\CooCox\CoIDE\configuration\ProgramData\LPC17xx-FreeRTOS -TC:\CooCox\CoIDE\configuration\ProgramData\LPC17xx-FreeRTOS/arm-gcc-link.ld -g">
+      <target file="LPC17xx-FreeRTOS.elf" lastModified="14c9905b93b">
+         <source file="..\obj\consoleprint.o" lastModified="14c99037326"/>
+         <source file="..\obj\basic_io.o" lastModified="14c99037386"/>
+         <source file="..\obj\lpc17xx_clkpwr.o" lastModified="14c990373db"/>
+         <source file="..\obj\system_LPC17xx.o" lastModified="14c9903742e"/>
+         <source file="..\obj\main.o" lastModified="14c99037493"/>
+         <source file="..\obj\timers.o" lastModified="14c990374f2"/>
+         <source file="..\obj\printf.o" lastModified="14c99037570"/>
+         <source file="..\obj\lpc17xx_gpio.o" lastModified="14c990375e8"/>
+         <source file="..\obj\tasks.o" lastModified="14c990376aa"/>
+         <source file="..\obj\startup_LPC17xx.o" lastModified="14c990376e8"/>
+         <source file="..\obj\lpc17xx_libcfg_default.o" lastModified="14c99037720"/>
+         <source file="..\obj\lpc17xx_pinsel.o" lastModified="14c99037771"/>
+         <source file="..\obj\list.o" lastModified="14c990377d1"/>
+         <source file="..\obj\syscalls.o" lastModified="14c99037825"/>
+         <source file="..\obj\queue.o" lastModified="14c990378bb"/>
+         <source file="..\obj\port.o" lastModified="14c99037915"/>
+         <source file="..\obj\event_groups.o" lastModified="14c99037983"/>
+         <source file="..\obj\heap_2.o" lastModified="14c990379e4"/>
+      </target>
+   </processor>
+</history>

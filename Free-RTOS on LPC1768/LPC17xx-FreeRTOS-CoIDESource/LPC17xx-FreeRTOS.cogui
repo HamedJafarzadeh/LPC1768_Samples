@@ -1,0 +1,534 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workbench version="2.0">
+<workbenchAdvisor/>
+<window>
+<fastViewData fastViewLocation="1024"/>
+<perspectiveBar/>
+<page focus="true" label="Workspace - CooCox CoBuilder">
+<editors>
+<editorArea activeWorkbook="DefaultEditorWorkbook">
+<info part="DefaultEditorWorkbook">
+<folder appearance="1" expanded="2">
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+<part id="6"/>
+<part id="7"/>
+<part id="8"/>
+<part id="9"/>
+<part id="10"/>
+<part id="11"/>
+<part id="12"/>
+</presentation>
+</folder>
+</info>
+</editorArea>
+<editor id="org.coocox.welcome.ui.WelcomePage" name="" partName="welcome" title="welcome" tooltip="" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.builder.ui.persistent.PersistentElementFactory">&#x0A;<org.coocox.welcome.ui.WelcomePage/>
+</input>
+</editor>
+<editor id="org.coocox.builder.ui.editors.repository.RepositoryBrowser" name="Repository" partName="Repository" title="Repository" tooltip="Repository" workbook="DefaultEditorWorkbook">
+<input factoryID="org.coocox.component.ui.editors.repository.RepositoryElementFactory">&#x0A;<subPage horizontalPosition="0" selectedItemId="0" subPageIndex="2" verticalPosition="0"/>
+</input>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" partName="main.c" path="C:/CooCox/CoIDE/workspace/LPC17xx-FreeRTOS/main.c" title="main.c" tooltip="C:/CooCox/CoIDE/workspace/LPC17xx-FreeRTOS/main.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/main.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="1101" selectionTopPixel="276"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="HjDelay.h" partName="HjDelay.h" path="D:/#ARMLib/HjDelay/HjDelay.h" title="HjDelay.h" tooltip="D:/#ARMLib/HjDelay/HjDelay.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/HjDelay.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor activePart="true" focus="true" id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOSConfig.h" partName="FreeRTOSConfig.h" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/FreeRTOSConfig.h" title="FreeRTOSConfig.h" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/FreeRTOSConfig.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOSConfig.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="4355" selectionTopPixel="1191"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="task.h" partName="task.h" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/task.h" title="task.h" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/task.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/task.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="9" selectionOffset="12212" selectionTopPixel="4050"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="port.c" partName="port.c" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/portable/port.c" title="port.c" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/portable/port.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/portable/port.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="10362" selectionTopPixel="3435"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="consoleprint.c" partName="consoleprint.c" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/demo_code/consoleprint.c" title="consoleprint.c" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/demo_code/consoleprint.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/demo_code/consoleprint.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="441"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOS.h" partName="FreeRTOS.h" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/FreeRTOS.h" title="FreeRTOS.h" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/include/FreeRTOS.h" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOS.h"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="3675"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="startup_LPC17xx.c" partName="startup_LPC17xx.c" path="C:/CooCox/CoIDE/workspace/LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c" title="startup_LPC17xx.c" tooltip="C:/CooCox/CoIDE/workspace/LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="14" selectionOffset="1592" selectionTopPixel="420"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="tasks.c" partName="tasks.c" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/tasks.c" title="tasks.c" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/tasks.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/tasks.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="52994" selectionTopPixel="21987"/>
+</editor>
+<editor id="org.eclipse.ui.DefaultTextEditor" name="readme.txt" partName="readme.txt" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/readme.txt" title="readme.txt" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/readme.txt" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/readme.txt"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+<editor id="org.eclipse.cdt.ui.editor.CEditor" name="event_groups.c" partName="event_groups.c" path="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/event_groups.c" title="event_groups.c" tooltip="D:/#Useful Articels/ARM Programming/LPC MicroControllers/EBooks/source-code-for-LPC17xx-edition-examples/FreeRTOS_Library/event_groups.c" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/event_groups.c"/>
+<editorState selectionHorizontalPixel="0" selectionLength="0" selectionOffset="0" selectionTopPixel="0"/>
+</editor>
+</editors>
+<views>
+<view id="org.eclipse.ui.views.ProgressView" partName="Progress">
+<viewState/>
+</view>
+<view id="org.coocox.component.ui.ComponentView" partName="Components">
+<viewState/>
+</view>
+<view id="org.coocox.builder.ui.views.ProjectView" partName="Project">
+<viewState CommonNavigator.LINKING_ENABLED="0" horizontalPosition="0" org.eclipse.ui.navigator.resources.workingSets.showTopLevelWorkingSets="0" verticalPosition="0">
+<expanded>
+<element path="/LPC17xx-FreeRTOS"/>
+<element path="/LPC17xx-FreeRTOS/FreeRTOS_Library"/>
+<element path="/LPC17xx-FreeRTOS/FreeRTOS_Library/Debug"/>
+<element path="/LPC17xx-FreeRTOS/FreeRTOS_Library/demo_code"/>
+<element path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include"/>
+</expanded>
+<selection>
+<element path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOSConfig.h"/>
+</selection>
+</viewState>
+</view>
+<view id="org.eclipse.search.ui.views.SearchView" partName="Search">
+<viewState isPinned="false">
+<view IMemento.internal.id="" org.eclipse.search.lastActivation="0"/>
+<view IMemento.internal.id="org.eclipse.search.text.FileSearchResultPage" org.eclipse.search.lastActivation="1" org.eclipse.search.resultpage.layout="2" org.eclipse.search.resultpage.limit="1000" org.eclipse.search.resultpage.sorting="2"/>
+</viewState>
+</view>
+<view id="org.eclipse.debug.ui.DebugView" partName="Debug">
+<viewState/>
+</view>
+<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
+<viewState/>
+</view>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view" partName="Disassembly">
+<viewState disassembly.syncActiveContext="true" disassembly.trackExpression="false"/>
+</view>
+<view id="org.coocox.component.ui.Help" partName="Help">
+<viewState/>
+</view>
+</views>
+<perspectives activePart="org.coocox.builder.ui.views.ProjectView" activePerspective="org.coocox.builder.perspective.CoBuilder">
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.builder.ui.PerspectiveCoBuilder" id="org.coocox.builder.perspective.CoBuilder" label="CooCox CoBuilder"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.coocox.userspace.actionSet"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.ShowDisassemblyAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showExpressionsAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showDebugAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showConsoleAction"/>
+<hide_menu_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showMemoryBrowserAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showVariablesAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openProjectExplorerAction"/>
+<hide_menu_item_id id="org.coocox.codebugger.trace.actions.ShowTraceControlAction"/>
+<hide_menu_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<hide_menu_item_id id="org.coocox.codebugger.configuration.showRegistersAction"/>
+<hide_toolbar_item_id id="org.eclipse.cdt.debug.internal.ui.actions.ToggleInstructionStepModeAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.eclipse.debug.ui.commands.TerminateAndRelaunch"/>
+<view id="org.coocox.builder.ui.views.ProjectView"/>
+<fastViewBars>
+<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@15c21fd" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="1">
+<fastViews>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="org.eclipse.search.ui.views.SearchView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@3cfb45" orientation="256" selectedTabId="org.coocox.component.ui.ComponentView" style="1">
+<fastViews>
+<view id="org.coocox.component.ui.ComponentView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="131072" id="org.eclipse.ui.internal.ViewStack@14e58d8" orientation="512" selectedTabId="org.coocox.component.ui.Help" style="1">
+<fastViews>
+<view id="org.coocox.component.ui.Help" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<layout>
+<mainWindow>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@3cfb45">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.ComponentView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@3cfb45">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info part="org.coocox.builder.ui.exampleView" ratio="0.21944036" ratioLeft="298" ratioRight="1060" relationship="2" relative="org.eclipse.ui.internal.ViewStack@3cfb45"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@14e58d8" ratio="0.7198113" ratioLeft="763" ratioRight="297" relationship="2" relative="org.coocox.builder.ui.exampleView">
+<folder appearance="2" expanded="2">
+<page content="org.coocox.component.ui.Help" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView" label="LabelNotFound"/>
+<page content="org.coocox.builder.ui.MoreExampleView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.45" ratioLeft="288" ratioRight="352" relationship="4" relative="org.coocox.builder.ui.exampleView"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@15c21fd" ratio="0.75" ratioLeft="480" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">
+<folder appearance="2" expanded="2">
+<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
+<page content="org.eclipse.search.ui.views.SearchView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@194aaa1" ratio="0.36875" ratioLeft="236" ratioRight="404" relationship="4" relative="org.eclipse.ui.internal.ViewStack@3cfb45">
+<folder activePageID="org.coocox.builder.ui.views.ProjectView" appearance="2" expanded="2">
+<page content="org.coocox.builder.ui.views.ProjectView" label="Project"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+<perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
+<descriptor class="org.coocox.codebugger.configuration.ui.Perspective" id="org.coocox.codebugger.configuration.perspective" label="CoDebugger"/>
+<alwaysOnActionSet id="org.eclipse.search.searchActionSet"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.annotationNavigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.navigation"/>
+<alwaysOnActionSet id="org.eclipse.ui.edit.text.actionSet.convertLineDelimitersTo"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.keyBindings"/>
+<alwaysOnActionSet id="org.eclipse.ui.actionSet.openFiles"/>
+<alwaysOnActionSet id="org.coocox.component.ui.actionSet"/>
+<alwaysOnActionSet id="org.coocox.welcome.ui.actionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.breakpointActionSet"/>
+<alwaysOnActionSet id="org.eclipse.debug.ui.debugActionSet"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFolder"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_menu_item_id id="org.eclipse.ui.file.save"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.refactoring.menu"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAll"/>
+<hide_menu_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_menu_item_id id="org.coocox.builder.ui.openFile"/>
+<hide_menu_item_id id="org.eclipse.ui.file.saveAs"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.projectMenu"/>
+<hide_menu_item_id id="org.coocox.builder.rcp.flashMenu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.debug"/>
+<hide_menu_item_id id="org.coocox.builder.ui.showHelpViewAction"/>
+<hide_menu_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_menu_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_menu_item_id id="org.eclipse.jdt.ui.source.menu"/>
+<hide_menu_item_id id="org.coocox.builder.ui.build"/>
+<hide_menu_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_menu_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.TargetManageAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newProject"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.repository"/>
+<hide_toolbar_item_id id="org.eclipse.ui.file.save"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.rebuild"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideFlashEraseAction"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.debug"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.newFile"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.actions.ConfigurationAction"/>
+<hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
+<hide_toolbar_item_id id="org.coocox.builder.ui.build"/>
+<hide_toolbar_item_id id="org.coocox.welcome.ui.action.welcome"/>
+<hide_toolbar_item_id id="org.coocox.component.ui.ShowRepositoryAction"/>
+<hide_toolbar_item_id id="org.coocox.codebugger.configuration.coideProgramDownloadAction"/>
+<view id="org.eclipse.debug.ui.DebugView"/>
+<view id="org.eclipse.ui.views.ProgressView"/>
+<view id="org.eclipse.ui.console.ConsoleView"/>
+<view id="org.eclipse.cdt.dsf.debug.ui.disassembly.view"/>
+<fastViewBars>&#x0A;<fastViewBar fastViewLocation="1024" id="org.eclipse.ui.internal.ViewStack@1227e59" orientation="256" selectedTabId="org.eclipse.debug.ui.VariableView" style="1">&#x0A;<fastViews>&#x0A;<view id="org.coocox.codebugger.trace.ui.traceview" ratio="0.3"/>
+<view id="org.eclipse.debug.ui.VariableView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+<fastViewBar fastViewLocation="16384" id="org.eclipse.ui.internal.ViewStack@1a4eb44" orientation="512" selectedTabId="org.coocox.builder.ui.views.ProjectView" style="1">&#x0A;<fastViews>&#x0A;<view id="org.coocox.builder.ui.views.ProjectView" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
+</fastViewBars>
+<viewLayoutRec closeable="false" id="org.eclipse.debug.ui.DebugView"/>
+<layout>&#x0A;<mainWindow>&#x0A;<info folder="true" part="org.eclipse.ui.internal.ViewStack@1a4eb44">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.coocox.builder.ui.views.ProjectView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="stickyFolderRight" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1a4eb44">&#x0A;<folder appearance="2" expanded="2">&#x0A;<page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
+<page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@9bc623" ratio="0.7" ratioLeft="448" ratioRight="192" relationship="4" relative="org.eclipse.ui.internal.ViewStack@1a4eb44">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.eclipse.debug.ui.BreakpointView" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1227e59" ratio="0.5" ratioLeft="679" ratioRight="679" relationship="2" relative="org.eclipse.ui.internal.ViewStack@9bc623">&#x0A;<folder appearance="2" expanded="0">&#x0A;<page content="org.coocox.codebugger.trace.ui.traceview" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.VariableView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.ExpressionView" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.MemoryView" label="LabelNotFound"/>
+<page content="org.eclipse.cdt.debug.ui.memory.memorybrowser.MemoryBrowser" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+</folder>
+</info>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@1951921" ratio="0.7496318" ratioLeft="1018" ratioRight="340" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1a4eb44">&#x0A;<folder activePageID="org.eclipse.cdt.dsf.debug.ui.disassembly.view" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.cdt.dsf.debug.ui.disassembly.view" label="Disassembly"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<page content="org.eclipse.debug.ui.RegisterView" label="LabelNotFound"/>
+<page content="org.coocox.coassistant.view.CoAssistantView_debug" label="LabelNotFound"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+</presentation>
+</folder>
+</info>
+<info part="org.eclipse.ui.editorss" ratio="0.29960707" ratioLeft="305" ratioRight="713" relationship="2" relative="org.eclipse.ui.internal.ViewStack@1a4eb44"/>
+<info folder="true" part="org.eclipse.ui.internal.ViewStack@8bdffd" ratio="0.75" ratioLeft="480" ratioRight="160" relationship="4" relative="org.eclipse.ui.editorss">&#x0A;<folder activePageID="org.eclipse.debug.ui.DebugView" appearance="2" expanded="2">&#x0A;<page content="org.eclipse.debug.ui.DebugView" label="Debug"/>
+<page content="org.eclipse.ui.views.ProgressView" label="Progress"/>
+<page content="org.eclipse.ui.console.ConsoleView" label="Console"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">&#x0A;<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+</presentation>
+</folder>
+</info>
+</mainWindow>
+</layout>
+</perspective>
+</perspectives>
+<workingSets/>
+<navigationHistory>
+<editors>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/main.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/tasks.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/portable/port.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/R2T-ECA-LPC1768Config.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/demo_code/consoleprint.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOS.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOSConfig.h"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/tasks.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/readme.txt"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/event_groups.c"/>
+<editor factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOSConfig.h"/>
+</editors>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13328" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13217" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13302" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13328" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13217" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13471" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13517" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13654" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13815" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="13862" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="14006" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="14110" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="14167" y="0"/>
+</item>
+<item historyLabel="tasks.c" index="1">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="450" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="457" y="0"/>
+</item>
+<item historyLabel="R2T-ECA-LPC1768Config.h" index="3">
+<position info="not_deleted" x="1423" y="14"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="457" y="0"/>
+</item>
+<item historyLabel="tasks.c" index="1">
+<position info="not_deleted" x="53436" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="11783" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="14167" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="11202" y="0"/>
+</item>
+<item historyLabel="port.c" index="2">
+<position info="not_deleted" x="10362" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1655" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1750" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1750" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1750" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1750" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1750" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1675" y="0"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1708" y="0"/>
+</item>
+<item historyLabel="consoleprint.c" index="4">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FreeRTOS.h" index="5">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="FreeRTOSConfig.h" index="6">
+<position info="not_deleted" x="4355" y="0"/>
+</item>
+<item historyLabel="startup_LPC17xx.c" index="7">
+<position info="not_deleted" x="1592" y="14"/>
+</item>
+<item historyLabel="main.c" index="0">
+<position info="not_deleted" x="1216" y="0"/>
+</item>
+<item historyLabel="tasks.c" index="8">
+<position info="not_deleted" x="51290" y="19"/>
+</item>
+<item historyLabel="readme.txt" index="9">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item historyLabel="event_groups.c" index="10">
+<position info="not_deleted" x="0" y="0"/>
+</item>
+<item active="true" historyLabel="FreeRTOSConfig.h" index="11">
+<position info="not_deleted" x="4355" y="0"/>
+</item>
+</navigationHistory>
+<input factoryID="org.eclipse.ui.internal.model.ResourceFactory" path="/" type="8"/>
+</page>
+<workbenchWindowAdvisor/>
+<actionBarAdvisor/>
+</window>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="event_groups.c" tooltip="LPC17xx-FreeRTOS/FreeRTOS_Library/event_groups.c">
+<persistable path="/LPC17xx-FreeRTOS/FreeRTOS_Library/event_groups.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.ui.DefaultTextEditor" name="readme.txt" tooltip="LPC17xx-FreeRTOS/FreeRTOS_Library/readme.txt">
+<persistable path="/LPC17xx-FreeRTOS/FreeRTOS_Library/readme.txt"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="main.c" tooltip="SelfBalancePortotype/main.c">
+<persistable path="/SelfBalancePortotype/main.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="tasks.c" tooltip="LPC17xx-FreeRTOS/FreeRTOS_Library/tasks.c">
+<persistable path="/LPC17xx-FreeRTOS/FreeRTOS_Library/tasks.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="startup_LPC17xx.c" tooltip="LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c">
+<persistable path="/LPC17xx-FreeRTOS/cmsis_boot/startup/startup_LPC17xx.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="FreeRTOS.h" tooltip="LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOS.h">
+<persistable path="/LPC17xx-FreeRTOS/FreeRTOS_Library/include/FreeRTOS.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="consoleprint.c" tooltip="LPC17xx-FreeRTOS/FreeRTOS_Library/demo_code/consoleprint.c">
+<persistable path="/LPC17xx-FreeRTOS/FreeRTOS_Library/demo_code/consoleprint.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="startup_LPC17xx.c" tooltip="SelfBalancePortotype/cmsis_boot/startup/startup_LPC17xx.c">
+<persistable path="/SelfBalancePortotype/cmsis_boot/startup/startup_LPC17xx.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_pinsel.c" tooltip="SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_pinsel.c">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_pinsel.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_uart.c" tooltip="SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_uart.c">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_uart.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.h" tooltip="SelfBalancePortotype/lpc17xx_lib/include/i2c.h">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/include/i2c.h"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="i2c.c" tooltip="SelfBalancePortotype/lpc17xx_lib/source/i2c.c">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/source/i2c.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="HjI2C.c" tooltip="SelfBalancePortotype/HjI2C/HjI2C.c">
+<persistable path="/SelfBalancePortotype/HjI2C/HjI2C.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_gpio.c" tooltip="SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_gpio.c">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_gpio.c"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="org.eclipse.cdt.ui.editor.CEditor" name="lpc17xx_clkpwr.c" tooltip="SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_clkpwr.c">
+<persistable path="/SelfBalancePortotype/lpc17xx_lib/source/lpc17xx_clkpwr.c"/>
+</file>
+</mruList>
+</workbench>

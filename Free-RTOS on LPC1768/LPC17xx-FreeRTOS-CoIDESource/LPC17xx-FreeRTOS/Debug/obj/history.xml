@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc noversion nomachine -mcpu=cortex-m3 -mthumb -Wall -ffunction-sections -g -O0 -c -DLPC1768 -ID:\ -ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library -ID:\#ARMLib\HjDelay -ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable -I..\..\..\workspace\LPC17xx-FreeRTOS\lpc17xx_lib\include -ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code -ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples -I..\..\..\workspace -I..\..\..\workspace\LPC17xx-FreeRTOS\cmsis -ID:\#ARMLib\R2THWConfig -ID:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\include -I..\..\..\workspace\LPC17xx-FreeRTOS -ID:\#ARMLib -I..\..\..\workspace\LPC17xx-FreeRTOS\cmsis_boot -I..\..\..\workspace\LPC17xx-FreeRTOS\lpc17xx_lib">
+      <target file="lpc17xx_pinsel.o" lastModified="14c99037771">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_pinsel.c" lastModified="14c738c1776"/>
+      </target>
+      <target file="lpc17xx_clkpwr.o" lastModified="14c990373db">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_clkpwr.c" lastModified="14c738bf91d"/>
+      </target>
+      <target file="tasks.o" lastModified="14c990376aa">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\tasks.c" lastModified="14593509130"/>
+      </target>
+      <target file="lpc17xx_libcfg_default.o" lastModified="14c99037720">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_libcfg_default.c" lastModified="14c738a95e4"/>
+      </target>
+      <target file="event_groups.o" lastModified="14c99037983">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\event_groups.c" lastModified="14593508190"/>
+      </target>
+      <target file="printf.o" lastModified="14c99037570">
+         <source file="..\..\..\stdio\printf.c" lastModified="14c7389a694"/>
+      </target>
+      <target file="basic_io.o" lastModified="14c99037386">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\basic_io.c" lastModified="14716f82920"/>
+      </target>
+      <target file="heap_2.o" lastModified="14c990379e4">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\heap_2.c" lastModified="14593508960"/>
+      </target>
+      <target file="consoleprint.o" lastModified="14c99037326">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\demo_code\consoleprint.c" lastModified="1352f680a50"/>
+      </target>
+      <target file="queue.o" lastModified="14c990378bb">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\queue.c" lastModified="14593509130"/>
+      </target>
+      <target file="lpc17xx_gpio.o" lastModified="14c990375e8">
+         <source file="..\..\..\lpc17xx_lib\source\lpc17xx_gpio.c" lastModified="14c738bf8eb"/>
+      </target>
+      <target file="list.o" lastModified="14c990377d1">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\list.c" lastModified="14593508190"/>
+      </target>
+      <target file="system_LPC17xx.o" lastModified="14c9903742e">
+         <source file="..\..\..\cmsis_boot\system_LPC17xx.c" lastModified="14c738bf976"/>
+      </target>
+      <target file="port.o" lastModified="14c99037915">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\portable\port.c" lastModified="14593508960"/>
+      </target>
+      <target file="timers.o" lastModified="14c990374f2">
+         <source file="D:\#Useful Articels\ARM Programming\LPC MicroControllers\EBooks\source-code-for-LPC17xx-edition-examples\FreeRTOS_Library\timers.c" lastModified="14593509130"/>
+      </target>
+      <target file="syscalls.o" lastModified="14c99037825">
+         <source file="..\..\..\syscalls\syscalls.c" lastModified="14c738987f2"/>
+      </target>
+      <target file="startup_LPC17xx.o" lastModified="14c990376e8">
+         <source file="..\..\..\cmsis_boot\startup\startup_LPC17xx.c" lastModified="14c73d8383c"/>
+      </target>
+      <target file="main.o" lastModified="14c99037493">
+         <source file="..\..\..\main.c" lastModified="14c9902e4c9"/>
+      </target>
+   </processor>
+</history>
