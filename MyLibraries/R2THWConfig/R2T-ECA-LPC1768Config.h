@@ -4,11 +4,10 @@
 #define  _R2T_ECA_LPC1768Config_H_
 
 
-//#define LEDPORT    							2
-//
-//#define LED1PIN    							0
-//#define LED2PIN    							1
-//#define LED3PIN    							2
+#define LEDPORT    							2
+#define LED1PIN    							0
+#define LED2PIN    							1
+#define LED3PIN    							2
 #define LED4PIN    							3
 #define LED5PIN    							4
 #define LED6PIN    							5
